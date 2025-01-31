@@ -1,2 +1,4 @@
-# wiki
-wiki pages for documenting my interview questions and answers. codes will be in the repo and theoretical questions and answers on the wiki page
+# About
+This repository is for documenting all coding challenges from my Interviews and coding challenges. You can check the theoretical questions in the Wiki section
+
+They are grouped and categorized in a way that is easy to understand and would be regularly updated.
